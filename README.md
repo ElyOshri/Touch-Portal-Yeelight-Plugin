@@ -14,7 +14,7 @@ This plugin is for controlling Yeelight devices in your local network
 ## Installation Guide
 
 Go to the releases:
-https://https://github.com/ElyOshri/Touch-Portal-Yeelight-Plugin/releases
+https://github.com/ElyOshri/Touch-Portal-Yeelight-Plugin/releases
 
 Get the latest version and there will be a TPP file you can download. From Touch Portal go to Import Plugin. Once you have done that restart Touch Portal. After that you will have a list of new actions you can choose from. Also "Dynamic Text" variables are available. You can see them from the Dynamic Text Updater, or you can add an option for "On Plugin State Change" then select the corresponding state and "Changes to". 
 
