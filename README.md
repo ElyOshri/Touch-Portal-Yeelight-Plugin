@@ -24,3 +24,5 @@ For RGB background color change or text color change you can use "When Plug-in S
 
 For Temp change you can use any number between 1700 and 6500 and depending on your device it should work
 
+If non of the devices show up in Touch Portal make sure that Lan Control is enabled in the Yeelight app, This link should help to turn it on: https://getyeti.webflow.io/posts/how-to-control-yeelight-and-your-smarthome-with-yeti
+
