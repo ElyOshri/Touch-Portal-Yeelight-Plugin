@@ -26,3 +26,6 @@ For Temp change you can use any number between 1700 and 6500 and depending on yo
 
 If non of the devices show up in Touch Portal make sure that Lan Control is enabled in the Yeelight app, This link should help to turn it on: https://getyeti.webflow.io/posts/how-to-control-yeelight-and-your-smarthome-with-yeti
 
+
+
+Any Donations are welcome at www.paypal.me/ElyOshri and maybe soon Killer_BOSS would also open one
