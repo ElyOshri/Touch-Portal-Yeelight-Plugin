@@ -26,6 +26,12 @@ For Temp change you can use any number between 1700 and 6500 and depending on yo
 
 If non of the devices show up in Touch Portal make sure that Lan Control is enabled in the Yeelight app, This link should help to turn it on: https://getyeti.webflow.io/posts/how-to-control-yeelight-and-your-smarthome-with-yeti
 
+## Plugin Settings
+* State Update Delay: The Time It Takes For States To Update.
+* Discover Devices Delay: The Time It Takes To Discover New Devices.
+* Enable Disconnected Devices: If Your Devices Have A Low Connection This Would Keep Them Connected At All Time("On" or "Off").
+* Enable Log: If You Want To Troubleshoot This Would Create A Log("On" or "Off") .
+* Enable Auto Update: If You Want The Plugin To Search For A New Version Every Time It Starts("On" or "Off")
 
 
 Any Donations are welcome at www.paypal.me/ElyOshri and maybe soon Killer_BOSS would also open one
