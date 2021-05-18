@@ -1,6 +1,10 @@
 # Touch-Portal-Yeelight-Plugin
 A Yeelight plugin for Touch Portal by: Killer_BOSS and ElyOshri
 
+[![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/ElyOshri/Touch-Portal-Yeelight-Plugin?include_prereleases&label=Release)](https://github.com/ElyOshri/Touch-Portal-Yeelight-Plugin/releases/tag/v1.2.1)
+[![Downloads](https://img.shields.io/github/downloads/ElyOshri/Touch-Portal-Yeelight-Plugin/total?label=Downloads)](https://github.com/ElyOshri/Touch-Portal-Yeelight-Plugin/releases)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.me/ElyOshri1)
+
 ## Overview
 
 This plugin is for controlling Yeelight devices in your local network
@@ -34,4 +38,4 @@ If non of the devices show up in Touch Portal make sure that Lan Control is enab
 * Enable Auto Update: If You Want The Plugin To Search For A New Version Every Time It Starts("On" or "Off")
 
 
-Any Donations are welcome at www.paypal.me/ElyOshri and maybe soon Killer_BOSS would also open one
+Any Donations are welcome at www.paypal.me/ElyOshri1 and maybe soon Killer_BOSS would also open one
