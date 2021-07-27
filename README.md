@@ -34,8 +34,12 @@ If non of the devices show up in Touch Portal make sure that Lan Control is enab
 * State Update Delay: The Time It Takes For States To Update.
 * Discover Devices Delay: The Time It Takes To Discover New Devices.
 * Enable Disconnected Devices: If Your Devices Have A Low Connection This Would Keep Them Connected At All Time("On" or "Off").
+* Permanent Devices UI: If You Have Devices That Have Bad Connection You Can Permanently Add Them To The Plugin("On" or "Off")
 * Enable Log: If You Want To Troubleshoot This Would Create A Log("On" or "Off") .
 * Enable Auto Update: If You Want The Plugin To Search For A New Version Every Time It Starts("On" or "Off")
 
+## Permanent Devices Tutorial
+* To Use Permanent Devices You Will Need To Enable The UI Through The Plugin Settings And Add Your Device Ip In The UI
+* To Find Your Device IP Go To Your Yeelight Phone App Then Click On `Your Device-->Settings-->Device Info-->IP address` Then Copy The Ip Address To The UI Of The Plugin And Add It
 
 Any Donations are welcome at www.paypal.me/ElyOshri1 and maybe soon Killer_BOSS would also open one
