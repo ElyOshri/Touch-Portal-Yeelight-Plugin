@@ -1,7 +1,7 @@
 # Touch-Portal-Yeelight-Plugin
 A Yeelight plugin for Touch Portal by: Killer_BOSS and ElyOshri
 
-[![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/ElyOshri/Touch-Portal-Yeelight-Plugin?include_prereleases&label=Release)](https://github.com/ElyOshri/Touch-Portal-Yeelight-Plugin/releases/tag/v1.2.1)
+[![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/ElyOshri/Touch-Portal-Yeelight-Plugin?include_prereleases&label=Release)](https://github.com/ElyOshri/Touch-Portal-Yeelight-Plugin/releases/tag/v1.3)
 [![Downloads](https://img.shields.io/github/downloads/ElyOshri/Touch-Portal-Yeelight-Plugin/total?label=Downloads)](https://github.com/ElyOshri/Touch-Portal-Yeelight-Plugin/releases)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.me/ElyOshri1)
 
